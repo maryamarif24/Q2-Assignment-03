@@ -44,7 +44,7 @@ export default function Home() {
         <div>
             <h1 className="text-center text-4xl font-extrabold font-sans hover:text-red-500 mt-10">Explore the world</h1>
             <p className="text-center text-1xl font-sans font-thin mx-[100px] pb-[20px] text-slate-400">The World is with You, and You are with the world! 
-                Don't Let anything stop you from exploring the beauty spread around you.
+                Don t Let anything stop you from exploring the beauty spread around you.
             </p>
         </div>
 
